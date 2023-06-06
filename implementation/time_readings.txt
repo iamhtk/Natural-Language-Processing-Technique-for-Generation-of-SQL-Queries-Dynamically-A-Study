@@ -1,0 +1,10 @@
+get all states
+select state from cities 
+2699.28,2876.18
+select city, state from cities 
+2225.02,2324.96
+select city from cities WHERE  state in ('Madhya Pradesh')
+10480.13,10538.09
+fetch all cities of India
+select city from cities 
+1773.23,1881.17
